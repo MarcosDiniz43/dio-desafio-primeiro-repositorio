@@ -1,5 +1,5 @@
-# dio-desafio-primeiro-repositorio
-desafio de projeto Git/GitHub
+#  Desafio de Projeto sobre Git/Github da DIO
+Reposi criado para desafio de Projeto.
 
 
 ##  Links úteis
